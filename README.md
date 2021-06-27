@@ -1,6 +1,6 @@
 # CodeTechBVN_Logo
-Logo for Team CodeTech.
+Logo designed for Team CodeTech, Birla Vidya Niketan.
 
-Designed using Blender.
+Credits to: KneoXE (Subhajit Behura)
 
-By KneoXE, Subhajit Behura.
+Software used: Blender
